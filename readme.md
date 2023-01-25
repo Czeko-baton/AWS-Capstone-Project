@@ -34,8 +34,11 @@ The following summary lists the solution requirements, and provides a diagram of
 
 These parameter values are case sensitive.
 
-# Finished Diagram Results
-![Alt text](AWS-Capstone-Project/diargram.png "Infrastructure")
+## Finished Diagram Results
+
+Created in Visual Paradigm.
+
+![Alt text](https://netlife2022.s3.eu-west-2.amazonaws.com/diargram.png "Infrastructure")
 
 
 # Step 0:  Inspect the archtecture 
